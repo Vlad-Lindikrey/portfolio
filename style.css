@@ -49,3 +49,11 @@ header a {
      border-radius: 7px;
      padding: 7px;
 }
+ main a{
+    text-decoration: none;
+    font-size: 20px;
+     color: red;
+     background-image: linear-gradient(black,white,black);
+     border-radius: 7px;
+     padding: 7px;
+}
