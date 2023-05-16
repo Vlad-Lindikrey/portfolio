@@ -41,3 +41,11 @@ ul{
 main img{
     border:10px double white;
 }
+header a {
+    text-decoration: none;
+    font-size: 40px;
+     color: red;
+     background-image: linear-gradient(black,white,black);
+     border-radius: 7px;
+     padding: 7px;
+}
